@@ -5,7 +5,7 @@ This repository contains the SQL schema, ER diagram, and sample data insertion s
 📁 Repository Contents
 File	Description
 LMS_DB.sql	Complete SQL script containing database creation, tables, foreign keys, and data insertion.
-Swapna_LMS.drawio	ER Diagram illustrating relationships between all tables in the LMS database.
+LMS.drawio	ER Diagram illustrating relationships between all tables in the LMS database.
 🗄️ Database Overview
 
 The LMS database is designed to manage:
@@ -95,7 +95,7 @@ Then execute the table creation and data insertion statements.
 
 📊 ER Diagram
 
-The ER diagram (stored in Swapna_LMS.drawio) visualizes how all entities relate:
+The ER diagram (stored in LMS.drawio) visualizes how all entities relate:
 
 One-to-Many relationship between Instructor → Courses
 
